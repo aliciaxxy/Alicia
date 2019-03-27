@@ -1,4 +1,4 @@
-# Alicia Kaggle project of predicting Airbnb price using machine learning algorithms
+# Kaggle project of predicting Airbnb price using machine learning algorithms
 
 # Libraries ---------------------------------------------------------------
 library(caret)
